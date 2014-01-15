@@ -1,4 +1,4 @@
 GAPluginPhonegapJM
 ==================
 
-Implementation of GAPlugin on phonegap and jquery mobile
+Implementation of GAPlugin (Google Analytics) on phonegap and jquery mobile for iOS application —
